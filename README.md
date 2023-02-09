@@ -4,7 +4,8 @@ Saw this video on the internet where a number of rocks, paper and scissors are r
 
 Enter intial number of rocks, number of papers, number of scissors and watch thte battle unfold!
 
-P.S. I made some modifications in the rules to make the game more interesting.
+P.S. I made some modifications in the rules to make the game more interesting. For example, every 10 seconds the objects change their direction of travel by a random amount.
 
 Here is a sample video of the simulation:
+
 ![output](https://user-images.githubusercontent.com/76676951/217840693-89d6b66d-c589-40c2-aaf9-7aa70bb56f0f.gif)
