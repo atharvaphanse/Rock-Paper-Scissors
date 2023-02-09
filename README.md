@@ -9,3 +9,7 @@ P.S. I made some modifications in the rules to make the game more interesting. F
 Here is a sample video of the simulation:
 
 ![output](https://user-images.githubusercontent.com/76676951/217840693-89d6b66d-c589-40c2-aaf9-7aa70bb56f0f.gif)
+
+
+
+The module used for recording pygame screen: https://github.com/tdrmk/pygame_recorder
