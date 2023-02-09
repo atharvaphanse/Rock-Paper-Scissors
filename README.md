@@ -5,3 +5,9 @@ Saw this video on the internet where a number of rocks, paper and scissors are r
 Enter intial number of rocks, number of papers, number of scissors and watch thte battle unfold!
 
 P.S. I made some modifications in the rules to make the game more interesting.
+
+
+Here is a sample video of the simulation:
+
+https://user-images.githubusercontent.com/76676951/217838963-c7bf985b-852c-42f6-8065-8d1d1f9700a9.mp4
+
